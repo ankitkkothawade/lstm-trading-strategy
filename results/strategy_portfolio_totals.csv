@@ -1,0 +1,6 @@
+"Strategy","Final_Value","Initial_Value","Profit"
+"LSTM",12228.09,10000,2228.09
+"BuyHold",10959.17,10000,959.17
+"AlwaysBuy",10959.17,10000,959.17
+"MeanPred",12515.85,10000,2515.85
+"Random",12665.51,10000,2665.51
